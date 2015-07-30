@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="2FCEFEE5-2F8F-4F80-AEB7-5CAACBF4F27B" ModuleId="DevelopmentWithADot.AspNetSignalRVideoStreaming.Test" />
+  <Module PersistentId="BEF062E2-70E6-458D-A601-B8EA5EB7D767" ModuleId="DevelopmentWithADot.AspNetSignalRVideoStreaming" />
+</Modules>

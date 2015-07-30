@@ -1,0 +1,43 @@
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\DevelopmentWithADot.AspNetSignalRVideoStre.Test.dll
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\DevelopmentWithADot.AspNetSignalRVideoStre.Test.pdb
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\DevelopmentWithADot.AspNetSignalRVideoStreaming.dll
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Owin.dll
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Owin.Security.dll
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Newtonsoft.Json.dll
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Owin.dll
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\DevelopmentWithADot.AspNetSignalRVideoStreaming.pdb
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Owin.xml
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Owin.Security.xml
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Newtonsoft.Json.xml
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\obj\Release\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test.csprojResolveAssemblyReference.cache
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\obj\Release\DevelopmentWithADot.AspNetSignalRVideoStre.Test.dll
+D:\Users\Miguel Gamboa\Documents\Visual Studio 2012\Projects\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\obj\Release\DevelopmentWithADot.AspNetSignalRVideoStre.Test.pdb
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\DevelopmentWithADot.AspNetSignalRVideoStre.Test.dll.config
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\DevelopmentWithADot.AspNetSignalRVideoStre.Test.dll
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\DevelopmentWithADot.AspNetSignalRVideoStre.Test.pdb
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\DevelopmentWithADot.AspNetSignalRVideoStreaming.dll
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Owin.dll
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Owin.Security.dll
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Web.Infrastructure.dll
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Newtonsoft.Json.dll
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Owin.dll
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\DevelopmentWithADot.AspNetSignalRVideoStreaming.pdb
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Owin.xml
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Microsoft.Owin.Security.xml
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\bin\Newtonsoft.Json.xml
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\obj\Release\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test.csprojResolveAssemblyReference.cache
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\obj\Release\DevelopmentWithADot.AspNetSignalRVideoStre.Test.dll
+c:\hector\camera2\AspNetSignalRVideoStreaming\DevelopmentWithADot.AspNetSignalRVideoStreaming.Test\obj\Release\DevelopmentWithADot.AspNetSignalRVideoStre.Test.pdb
